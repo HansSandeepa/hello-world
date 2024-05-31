@@ -1,3 +1,3 @@
 # hello-world
-This repositary is for practicing github flow
-this piece of code that is only inside the readme-edits branch.
+This repositary is for practicing github flow. 
+This piece of code that is only inside the readme-edits branch.
